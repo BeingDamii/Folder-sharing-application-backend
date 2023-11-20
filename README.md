@@ -1,4 +1,4 @@
-# Project Name Backend
+# Folder sharing application
 
 ## Description
 
@@ -20,7 +20,7 @@ The backend is built with TypeScript, Express, Multer for handling file uploads,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-backend-repository.git
+   git clone https://github.com/BeingDamii/Folder-sharing-application-backend.git
    ```
 
 2. Navigate to the project directory:
