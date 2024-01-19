@@ -34,7 +34,7 @@ function checkFileType(
   cb: (arg0: string | null, arg1: boolean | undefined) => void
 ) {
   // Allowed ext
-  const filetypes = /jpeg|jpg|png|gif|docx|pdf/;
+  const filetypes = /jpeg|jpg|png|gif|doc|pdf/;
   // Check ext
   const extname = filetypes.test(path.extname(file.originalname).toLowerCase());
   // Check mime
